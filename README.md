@@ -3,6 +3,6 @@ My first Git repository.
 <br>
 Hii
 <hr>
-Author - AbhiSree
+Author - AbhiSree Guptha
 <br>
 Hello
